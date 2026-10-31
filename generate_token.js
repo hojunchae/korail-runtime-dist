@@ -2473,39 +2473,50 @@ function generateWebDynaPathToken(params) {
   const dpr = profile.devicePixelRatio || 2.625;
 
   const now = Date.now();
-  const dwellTime = Math.floor(Math.random() * 2000) + 2500;
-  const initLatency = Math.floor(Math.random() * 150) + 120;
+  const seedTime = (Bb && Bb[0]) ? Bb[0] : now;
+  const netDelta = Math.max(80, Math.min(2500, now - seedTime));
+  const dwellTime = Math.floor(Math.random() * 1500) + 2000;
+  const initLatency = Math.floor(Math.random() * 80) + 100;
 
   // xg array for aLmK (50 elements) matching deob_almk specification
   const xg = [
     1392,                                // [0]
-    90,                                  // [1]
-    6,                                   // [2]
-    10,                                  // [3]
+    91,                                  // [1] Pq(0) -> 0 + 91
+    7,                                   // [2] nZ(1) -> 1 + 6 (mobile=1)
+    netDelta + 10,                       // [3] Bg - Bb[0] + 10
     dwellTime - 5,                       // [4] Dwell time
     33,                                  // [5]
     1395,                                // [6]
     7,                                   // [7] Pointer capability
-    3, 6, -396, -1,
+    6,                                   // [8] n2() -> 3 + 1 (coarse) + 1 (TouchEvent) + 1 (ontouchstart) = 6
+    6,                                   // [9]
+    dwellTime - 395,                     // [10] nd(dwellTime) -> dwellTime - 395
+    0,                                   // [11] nK(0) -> 0 + 0
     innerH - 415,                        // [12] Viewport height
     4,
     14,                                  // [14] Object.defineProperty native
-    9, 20, 8,
+    9, 20,
+    13,                                  // [17] kS() + 8 -> maxTouchPoints(5) + 8 = 13
     width - 612,                         // [18] Screen width
-    24,
+    25,                                  // [19] xs(0) -> 0 + 25
     6845,                                // [20] DynaPath constant
     49,
-    initLatency + 5,                     // [22] Init latency
-    -253, 4, 3, 20, 3374, 6, 65,
+    6,                                   // [22] xd() + 5 -> hasFocus(1) + 5 = 6
+    dwellTime - 217,                     // [23] PY(CW + 37) -> CW - 217
+    5, 4, 21, 3374, 6,
+    130944 + 65,                         // [29] nj(CU()) -> 130944 + 65 (Browser env bitmask)
     innerW - 678,                        // [30] Viewport width
-    now - 1753402118857,                 // [31] Dynamic epoch offset
+    (seedTime + dwellTime) - 1753402118857, // [31] Dynamic epoch offset (server sync)
     5, 2,
     height - 143,                        // [34] Screen height
-    -9, 15, 41, 12, 11, 9,
+    -9, 15, 41, 12,
+    20,                                  // [39] kd() -> deviceMemory(8) + 12 = 20
+    9,                                   // [40] nl() -> 9 (WebKit/Chrome)
     Math.round(dpr * 100) + 1,           // [41] Screen DPI scale factor
     1, 36,
-    initLatency + 9,                     // [44]
-    78, 10, 8, 6, 12                     // [45..49]
+    10,                                  // [44] xd() + 9 -> hasFocus(1) + 9 = 10
+    78, 10, 8, 6,
+    12                                   // [49] nx() -> 12 + 0 = 12 (window environment)
   ];
 
   const sessionId = profile.sessionId || wI_uuid();
@@ -2521,8 +2532,8 @@ function generateWebDynaPathToken(params) {
     f: [79, 37],
     kl6: [73, 59, 48],
     si: "",
-    xey: "",
-    u4p: targetUrl,
+    xey: targetUrl,
+    u4p: "",
     qq: "",
     ui: "",
     k8: "",
