@@ -1,5 +1,5 @@
 /**
- * Korail Web DynaPath Token & Virtual Routing Generator (Bundle aLmKblni3Ge3cedJosCZG0TFOsTcuB0T-v42 / _atk= Base12)
+ * Korail Web DynaPath Token & Virtual Routing Generator (Bundle aLmKblni3Ge3cedJosCZG0TFOsTcuB0T-v43 / _atk= Base12)
  * Pure JavaScript module: zero DOM/browser dependencies, runs on Node.js / Pyto JavaScriptCore.
  */
 
@@ -2509,13 +2509,13 @@ function generateWebDynaPathToken(params) {
     (seedTime + dwellTime) - 1753402118857, // [31] Dynamic epoch offset (server sync)
     5, 2,
     height - 143,                        // [34] Screen height
-    -9, 15, 41, 12,
+    -9, 15, 42, 20,
     20,                                  // [39] kd() -> deviceMemory(8) + 12 = 20
     9,                                   // [40] nl() -> 9 (WebKit/Chrome)
     Math.round(dpr * 100) + 1,           // [41] Screen DPI scale factor
     1, 36,
     10,                                  // [44] xd() + 9 -> hasFocus(1) + 9 = 10
-    78, 10, 8, 6,
+    78, 11, 8, 6,
     12                                   // [49] nx() -> 12 + 0 = 12 (window environment)
   ];
 
