@@ -1,6 +1,7 @@
 /**
- * Korail Web DynaPath Token & Virtual Routing Generator (Bundle aLmKblni3Ge3cedJosCZG0TFOsTcuB0T-v43 / _atk= Base12)
+ * Korail Web DynaPath Token & Virtual Routing Generator (Bundle aLmKblni3Ge3cedJosCZG0TFOsTcuB0T-v44 / _atk= Base12)
  * Pure JavaScript module: zero DOM/browser dependencies, runs on Node.js / Pyto JavaScriptCore.
+ * korail-runtime-api: 1
  */
 
 // Base64 polyfill for headless JSContext environments (e.g. iOS Pyto)
@@ -1983,7 +1984,7 @@ var XL = _vbvu("O}Äp$¡ÚBLëcaÕÒ¢t&É\b»ü\"çÝy5²ZR¡¹÷h(�
 var XZ = _vbvu("*¤Ù1\t×Í»1®(`3×»iÇ \rôAJ4ü\bÐoÛÿ(öVHuG\rüõjIÔ=áB,ü¤3¼ÑÞ~½ä¤þÛUÓ'8Ò7f]Èx*l0iBoüºÎEb.pÚ8kÆ.Þ¶c/6Ùõø¼bý¶ØÇóbB¦bH3±}y¨ÝU3èw)ç~¼/Ó·m£nD¡ ¾å:èÓ¢È@:çÃÎÛ|û\"a¢`Iþ+(dQ^P\fø²ù¾[ø¾4áîÕíÊ¯QÂmmÇ·øþ%ø¬T´\be½íÔ^ËQ~;îu+Ü>kàÚ$×)Ô", "U4a0SH3M53Ry3hcJ1Q4Z4aHSjq3TAjfRQS5jp6apk/Gx5wcC3RARCcxt/gA285/P8qnn5KE=", 53804, 10293);
 var Xi = _vbvu("sÊ>ê/4ÖlBÅ-[lüZq§æÛ?µÒìSç÷»_üT\\ïwÍ&·X¸kñ:,:Ê­Jå¾kEA3\f~0Ô\\z\0¨M:O,É¢=ê mÀ: î'M·Ö\xA0)pþ,É\xA0\b»Uª\\ê²XâNëÿiX³Q³{£¿W«ÚôrÛÅgç\b?mî;nØ69xî~Á;Ïjò}/ö5º\ràP'Û4 üNâÊ½°@à÷ÞkÉL×6½Bq©oN®û\\ªH\xA0«8KùK`¡hòx\xA0A=ÞrzÍ(ÄxÄMÒ", "+FGnR54DTFvzCWNWVq47mYriZuI4hdz3+pnwmkw9ldVWq9ufftdBO5GWxcOz", 35435, 63145);
 var XU = _vbvu("WkvÄ¨\rì@$À=Óç9ÄJ4@ÿD£I}Ðt×»mG¾²A`îÅ×Ó C-_¢|_6\\¡Õ´1®ÄC#dÝ¦îL#'ùüN\fe~Ñ½â{ÚJÀÍtXlW©Ø½hCdK§ôp[h^ñÞv]&áÁ¯=ûS¹o¾fÔ±õx*Ù«X³b3~¹äKwÚÉífMrâÁÖî5\\êÙêØ6\nEòÑäÝ3vúi|Ç­ÿ\foÆ^Ô¡P´@#,ý¬¿N?xÜûRN´Ë¦;\bwèÃðÈ<G*¿êÚ\"w]°êtWIýJqÛiÈ´[²mÀdÑµéuØ}¬²øk=yùTiG­øbAmîÅâjYlX¾Ý.6ðöÑ3­çO+Ò!çv}ßîH»n,?Î£+ó[9Ú9È#iN¤Ï¢dùþÂiL8bÌßøÆ:f^·å)­@,bÉ²@½sÊ9Þ\xA0ú#2vë\tµg\nîöM*³Ï¦Ï#\nmüÙÌÜ*EOãÕ7:ô9zÞíJã[/-£\rãG.mÉýºóK?=¾ÔDY£¨6\fbP¡Í\xA0Ë-aO´Û\xA0L_k@±ÓÅ?\0{îB=-«ïW$+ÓçúN8lâç%±UsÞ5Ú÷+G.K³õÎ!aøªú\rq[\xA0l8¼õÐtñNÛe¢YïFóG4'µ\tõVs\"yÛµä^#7Å9fòýâ6mPêßàÚ0\nÂûÝ3zâÇº)Ùºüq?vÉ¤\fó[gÜ}Ýµ\tú=q1Ä°\0öU&ÔÑ×!\niâÁöÎ6E$¥ìÜ(]\f½äÔ (q[².+í\0áO*#åéG2FÓ±äøFq©=µáSH£ïj,|ïÅ:$ï¶sVöË°9yåU$zÃóL¯3tÜç\\õI53â¹õU$cË÷LyE¦Ã²Ä=\"vS­ª pJ¿ÓÑ;sEºÕ¢zéúO<±É¶\täL3'½õI:}1Åñð@6fKzC±àhCiB±Çª,\t8bÌßüÊ qX¼´1×ë5ÐF \\ûãX³UiÄuÝ´½z¡eÒéCñ@,ÃÞ®hu^ºÁ¾Ï7d\täùß;\nLI­Ñ®ß'tô\"HØ½ú\fy`Î´\r©7wÝ«è¿`Ø3Ç¤æwY«çÊ>}þãË;\0{f¡", "KUnlD7A7boAiQcGuqOZZIzx6pCqO3X7SNFFYF7kXdmtgKcr30a1M7gQhOciIptqSS4WqcqC9pVwUNVAkB39WyVMxKk2nnaNpZIM7yugA01F8n7jnABjL/HSWsITXFb7bv0OGDVz4jqPJYQmfyOmREVxyTJ9Y/ZI7GmGeK1SAlgvSyWuJMEAkA6nnZIcm7+YURvZ6j2v//g0M0X2pOHnjU4y44G8flc7x0yNPQMIlyOMRuVTyIC5PCF6xXFEnn9ZFt9lgz36VEV9pAa9KaIuMW+izusrWFQ7RrOp413aNEAlm6ZwiUHqkI9G3AKrFZQii3PrEqj7OHzMi8ZJsWHy/iyV27A+6O26BSEHoIenFcZH2We0Hxt1mKzReeBehxiHpGEXK97bsTnl568L9kKNGYGHz2uS4Zl5vHl3S676zVt9mQypb1oCu3pwLIlkFp6a7YCE6VtOIvrDMkS+HMhWrjVRLsi/PR46wt8sCOpKQL7tPXyWH4OfJOzs1Ep5y9YKhrNPSjyMaao6k207vfspZqoNUeoVvXd6MT71yjQdNY+v3i8dvGofO8AmhVt8IMil2nLbQfzkuR/ORYZh3DxPOpJllqtVWlaND/rmi3/vBJ1Lps7rVDZ0t3vQFGNdvGDYx7EIHr1/gDjld4YTS4WURI+NBmqVPfT7qLzuSrX5TKIvi8eoX50ke9u5B+CGwSGaBsVn1lcDEbfxwULm9uMn7axdc5e+wdOdjHzl654cdRmGeiMJyoKdxczSaApuYr070XYg/9/AWVQlkmzphUAW8jfjSfl57t77P+ZEoAHy/trC52CyX0PdejERBqUvI/6CjyXhOfuDclHlUUAoicvWAhqzoFyUwUOoDpzqAhwpt86O809CfU+X+Bx7RZRo4TdYyJqlWgH0tyBDag8c=", 7509, 59231);
-var Xu = _vbvu("\xA0hÛÉkë7§ì$*#7«p¼7Äþc[Èxö8ÚDíãÝTæAÇe*[Ä<~çßÁcöoU`óÔIwï+¦\b±a\t¥ÚØNÛ}\"CïaÄ`à\bd³í¼£?jsdHàñ9:Ó8¡ 4²SÖÎwè^Bþ~Fÿ`ÇÉ{óÎ¿'b<Ò5¬D÷7ü;v26³áDùþiTâOxá_ÎüX\0@îo[\\ýËÂtïÆ6ô8ïò3ÜBàB³g Yµ/6ØCªçPãêj7zþ\n¦QÃç!Hº£eÆDº'Ê%Õß+¶u»$?ª¯Kû/ÎðgÑ{çä\b£¡BÿªRÏt*MÄ2.ªJÁy¡&Á4¥\0ßo¨Ã*¢Q\b±f¶3ÙÈX¸3n²!{ò9$ªûÙP¿±SÝx(Q4&ÐRý¾1KÅÂ:ÍHgÂ-ªSË(èVþb®nÊgç©kzô<ãpô|¸^ÉvtÌg?}Îþi]£Ü5®W¢%A©kª#1ð#äRÞvå¬Í:¨ÒBçmôb5|GîÅ¾¿s}ç\fLíRÈúdú}\tN®9ÜÃ^ü>§_\\ä$O6º¥R²vÖ³3YÊe§và\bþâµæn3j0?¤^Ì5ÏÄLzØ©G(÷ÕÒ1¯PA±8S7¡ ÒÑùh2]üaÑwò\fÅl«ùõò[Ë{e%;ûégÅÂ&ÍlfñzýPÄ(¯ók§*&ª×¿:Ýyø<µË¬c­WÙ|m\"", "30q2sB8H/eZVwiRElxNt8etPl/VWng0vY9JL8qcWug27K+Ra/2/FwjOg/qF35HOzvlapoRdYYNRCPyEbqPZhWHTO+YPSzj7fvAJ09FpGtMNeMwkCd8bnNKFFITujVo/lpefZ0mlRBkBzt9XEHSaVNgt7Q+BN6IybFNTZWMa8perwMVUwnhZb8dNdCagXA+CiJtpJ+K8W2ud8J2i4L7A6ZjuiT5o0F11Y5JIpiP+/UHZLsn6qAIunVMsUniAHfrO20Kh5SImPBaQbHa9CV85ipiPh5YDneNXiwh8B8PiIWVLS61mmvy5GhPQO0c8vLxUdyvpgDM83tU8DeMNVR7GPbNA1c7AVqCbkX2gxJUfkdXJ38MnKzZ4J5zVQjsttFolUYCqY7ZNu3Pvooh7nG+ZaRBA6qSoPbifUQ6pgGI8ZzKwTrP/wTkQ9NFkCYHDRRqfqvlAJEkmjnf6jE75gTVbEJvtmknI+jpAEeUhRSeGkL3OUUr8+YwYtHg7yYA9FjJ5Hc1VMmZ8GQnyFwEpiF4ntw9PaRj20vI2OW1LSQ62WEVAZEhkZx+5VybMwBfcE3tXNkmrjIJ7Bdf7DP3ESB3hnoZsC03DNGsJ0f4L58E9sNTOEGo91mjLNuzutlPjKfEUMw+pIicrknYTMXVvIJ115HJrcT9jPPyeUBe0xEke3A1PlSsA9H4R35Fe0Z6rv6QLe6vljwCUmDf5M0kUrh5mtnHEqka/nTiYOM60JLs/mWrPQmKg2t37+ocmyNTCbe2Wlo4rxSF/cDdfsunF5SJYcvDqCEapv07bWoxyp9edeSIzppSqllq4VImtaUUdVJpMT8Bbp71eYHBXKWGFYSja0R4tjOTCHMddk086kLQ==", 14164, 4719);
+var Xu = _vbvu("\xA0hÛÉkë7§ì$*#7«p¼7Äþc[Èxö8ÚDíãÝTæAÇe*[Ä<~çßÁcöoU`óÔIwï+¦\b±a\t¥ÚØNÛ}\"CïaÄ`à\bd³í¼£?jsdHàñ9:Ó8¡\x004²SÖÎwè^Bþ~Fÿ`ÇÉ{óÎ¿'b<Ò5¬D÷7ü;v26³áDùþiTâOxá_ÎüX\0@îo[\\ýËÂtïÆ6ô8ïò3ÜBàB³g Yµ/6ØCªçPãêj7zþ\n¦QÃç!Hº£eÆDº'Ê%Õß+¶u»$?ª¯Kû/ÎðgÑ{çä\b£¡BÿªRÏt*MÄ2.ªJÁy¡&Á4¥\0ßo¨Ã*¢Q\b±f¶3ÙÈX¸3n²!{ò9$ªûÙP¿±SÝx(Q4&ÐRý¾1KÅÂ:ÍHgÂ-ªSË(èVþb®nÊgç©kzô<ãpô|¸^ÉvtÌg?}Îþi]£Ü5®W¢%A©kª#1ð#äRÞvå¬Í:¨ÒBçmôb5|GîÅ¾¿s}ç\fLíRÈúdú}\tN®9ÜÃ^ü>§_\\ä$O6º¥R²vÖ³3YÊe§và\bþâµæn3j0?¤^Ì5ÏÄLzØ©G(÷ÕÒ1¯PA±8S7¡ ÒÑùh2]üaÑwò\fÅl«ùõò[Ë{e%;ûégÅÂ&ÍlfñzýPÄ(¯ók§*&ª×¿:Ýyø<µË¬c­WÙ|m\"", "30q2sB8H/eZVwiRElxNt8etPl/VWng0vY9JL8qcWug27K+Ra/2/FwjOg/qF35HOzvlapoRdYYNRCPyEbqPZhWHTO+YPSzj7fvAJ09FpGtMNeMwkCd8bnNKFFITujVo/lpefZ0mlRBkBzt9XEHSaVNgt7Q+BN6IybFNTZWMa8perwMVUwnhZb8dNdCagXA+CiJtpJ+K8W2ud8J2i4L7A6ZjuiT5o0F11Y5JIpiP+/UHZLsn6qAIunVMsUniAHfrO20Kh5SImPBaQbHa9CV85ipiPh5YDneNXiwh8B8PiIWVLS61mmvy5GhPQO0c8vLxUdyvpgDM83tU8DeMNVR7GPbNA1c7AVqCbkX2gxJUfkdXJ38MnKzZ4J5zVQjsttFolUYCqY7ZNu3Pvooh7nG+ZaRBA6qSoPbifUQ6pgGI8ZzKwTrP/wTkQ9NFkCYHDRRqfqvlAJEkmjnf6jE75gTVbEJvtmknI+jpAEeUhRSeGkL3OUUr8+YwYtHg7yYA9FjJ5Hc1VMmZ8GQnyFwEpiF4ntw9PaRj20vI2OW1LSQ62WEVAZEhkZx+5VybMwBfcE3tXNkmrjIJ7Bdf7DP3ESB3hnoZsC03DNGsJ0f4L58E9sNTOEGo91mjLNuzutlPjKfEUMw+pIicrknYTMXVvIJ115HJrcT9jPPyeUBe0xEke3A1PlSsA9H4R35Fe0Z6rv6QLe6vljwCUmDf5M0kUrh5mtnHEqka/nTiYOM60JLs/mWrPQmKg2t37+ocmyNTCbe2Wlo4rxSF/cDdfsunF5SJYcvDqCEapv07bWoxyp9edeSIzppSqllq4VImtaUUdVJpMT8Bbp71eYHBXKWGFYSja0R4tjOTCHMddk086kLQ==", 14164, 4719);
 
 // Core functions
 function km(Cf) {
@@ -2467,85 +2468,137 @@ function generateWebDynaPathToken(params) {
   // 3. Build telemetry object CZ
   const profile = params.profile || {};
   const width = profile.screenWidth || 412;
-  const height = profile.screenHeight || 915;
-  const innerW = profile.innerWidth || 412;
-  const innerH = profile.innerHeight || 780;
+  const height = profile.screenHeight || 892;
+  const innerW = profile.innerWidth || 411;
+  const innerH = profile.innerHeight || 741;
   const dpr = profile.devicePixelRatio || 2.625;
 
   const now = Date.now();
   const seedTime = (Bb && Bb[0]) ? Bb[0] : now;
-  const netDelta = Math.max(80, Math.min(2500, now - seedTime));
-  const dwellTime = Math.floor(Math.random() * 1500) + 2000;
-  const initLatency = Math.floor(Math.random() * 80) + 100;
+  // Approximate the original bundle's page start (Bg) and elapsed time.
+  // The caller retains it for this web session; standalone calls start now.
+  const reqBody = params.body || "Device=BH&Version=240417001";
+  let reqTarget = targetUrl;
+  if (reqTarget.startsWith("http://") || reqTarget.startsWith("https://")) {
+    try {
+      const parsedUrl = new URL(reqTarget);
+      reqTarget = parsedUrl.pathname;
+    } catch (e) {}
+  }
+
+  const isMultipart = params.isMultipart !== false; // Default true for Korail multipart routes
+
+  const useAuthentic = Boolean(profile.authentic || params.authentic);
+  const isTest = reqTarget === "/test";
+  const isLogin = useAuthentic && (prefix === "dynaPath" || reqTarget.includes("login"));
+  const isSchedule = useAuthentic && (prefix === "web_s" || reqTarget.includes("ScheduleView"));
+  const isReserve = useAuthentic && (prefix === "web_r" || reqTarget.includes("TicketReservation"));
+
+  let f_val = [104, 37];
+  let si_val = "AwAYeJzj4OJkx4YZuBkYWbBgBhyAEQxcM6Lbj75wdc3IiI5ubz969MULiDgmkAQDDjDAZSYE6IIBLllmMEB2AwAB4gzn";
+  let r0h_val = JSON.stringify({ k: { s: 16, n: 6, z: "0,0,0,0,0,0,5" } });
+  let xg0 = 1392, xg4 = 710, xg5 = 33, xg6 = 1395, xg10 = -189, xg27 = 3374, xg28 = 6, xg35 = -9, xg37 = 42, xg43 = 36, xg45 = 78, xg46 = 11, xg48 = 6;
+
+  if (isLogin) {
+    f_val = [80, 61];
+    r0h_val = JSON.stringify({ k: { s: 98, n: 6, z: "15,1,0,0,0,0,0" } });
+    si_val = "AwCjeJy1ks1ugzAMxx2TBDppaLtz2CY0qdx4ij3ADjxAW2hFq15763vwtPU/lCpIVGpa8ZNjG9sJzgdlQvK2MLEoa2Lr+czvnx9Zlr6i+5XEx3fQGHrg2BBRwqRoAUUmUWKs87WKJUlkndaej0lDxK/p435WVsIPrlFY1KMaAzWwyCE+WFeDRoiJ8xFKiYTALPIMeS4SzYw0SKQiHbG2aVlUTZemZVkUVdU0XRe20/n4diQOxVF/tTeMEXkda0Wewb2h6ePFPWo9lRlvIQxc2Zzj3P7v6mq/3dR/p/XpuN2t2vqwbtti+fvjtfE1amp57W0EPh8dgeW3aTjj6WdzJ+xSd8/W4wLxByR0";
+    xg0 = 1563; xg4 = 461; xg5 = 37; xg6 = 17599; xg10 = -123; xg27 = 4194; xg28 = 22; xg35 = -8; xg37 = 270; xg43 = 53; xg45 = 87; xg46 = 10; xg48 = 6;
+  } else if (isSchedule) {
+    f_val = [104, 37];
+    r0h_val = JSON.stringify({ k: { s: 25, n: 7, z: "19,0,0,0,0,0,0" } });
+    si_val = "AwBCeJydUEsKwyAQHcdMNEk/+xBoAm4k1BvkIgGP4t0744cS6KqPgfdzUOwXhh0HMj0x9WQQG1extKbxN5Bl0gAwICjAQtBpo4TZWORSNIucGF24BbLsXoJVKR4+vAKbHJW8Oud4HPdyRiNRh7T7I4V47rv3x5FSCDGep/oTW4EtAGOHUR4PME0ywJNhKlfYJm73x/NazXN4b95X9/NS/mXBNfwAklAQnQ==";
+    xg0 = 1528; xg4 = 259; xg5 = 38; xg6 = 11368; xg10 = -134; xg27 = 4430; xg28 = 25; xg35 = -8; xg37 = 242; xg43 = 52; xg45 = 81; xg46 = 10; xg48 = 6;
+  } else if (isReserve) {
+    f_val = [80, 37];
+    r0h_val = JSON.stringify({ k: { s: 35, n: 5, z: "22,1,0,2,0,1,0" } });
+    si_val = "AwApeJzj4OJkZWdjBVJsEBoCQTyEGIjmZGJgZGBi4ABRYJqdkYWJgxHEg5BMDOxgOQYGeQZ5FXkQkldgABLyCkCOChCBMBAxAhWBdLCyMjOzsLCxLH1d091ZceL70qWvX1d3d1SUnzjx/TsjsUARCjigAOQA4oGmoayWGpiFaTITCCC4ACcrFjg=";
+    xg0 = 1669; xg4 = 720; xg5 = 37; xg6 = 8699; xg10 = -192; xg27 = 5315; xg28 = 32; xg35 = -6; xg37 = 54; xg43 = 52; xg45 = 82; xg46 = 10; xg48 = 9;
+  }
+
+  const pageStartedAt = Number.isFinite(profile.pageStartedAtMs) ? profile.pageStartedAtMs : (useAuthentic ? (seedTime + 907) : now);
+  const pageElapsed = Math.max(0, now - pageStartedAt);
+  const requestCount = Number.isSafeInteger(profile.requestCount) ? profile.requestCount : 1;
 
   // xg array for aLmK (50 elements) matching deob_almk specification
   const xg = [
-    1392,                                // [0]
-    91,                                  // [1] Pq(0) -> 0 + 91
+    xg0,                                 // [0]
+    92,                                  // [1] observed in six successful device requests
     7,                                   // [2] nZ(1) -> 1 + 6 (mobile=1)
-    netDelta + 10,                       // [3] Bg - Bb[0] + 10
-    dwellTime - 5,                       // [4] Dwell time
-    33,                                  // [5]
-    1395,                                // [6]
+    useAuthentic ? 917 : (pageStartedAt - seedTime + 10), // [3]
+    xg4,                                 // [4] pointer-down y coordinate
+    xg5,                                 // [5]
+    xg6,                                 // [6]
     7,                                   // [7] Pointer capability
     6,                                   // [8] n2() -> 3 + 1 (coarse) + 1 (TouchEvent) + 1 (ontouchstart) = 6
-    6,                                   // [9]
-    dwellTime - 395,                     // [10] nd(dwellTime) -> dwellTime - 395
-    0,                                   // [11] nK(0) -> 0 + 0
-    innerH - 415,                        // [12] Viewport height
+    7,                                   // [9] observed device profile
+    xg10,                                // [10] pointer-down x coordinate
+    requestCount,                        // [11] normal request count
+    326,                                 // [12] Viewport height
     4,
-    14,                                  // [14] Object.defineProperty native
+    /\\r?\\n/.test(Object.defineProperty.toString()) ? 14 : 13, // [14] original function-string check
     9, 20,
     13,                                  // [17] kS() + 8 -> maxTouchPoints(5) + 8 = 13
-    width - 612,                         // [18] Screen width
-    25,                                  // [19] xs(0) -> 0 + 25
+    -200,                                // [18] Screen width (width - 612)
+    26,                                  // [19] observed device profile
     6845,                                // [20] DynaPath constant
-    49,
+    51,                                  // [21] observed device profile
     6,                                   // [22] xd() + 5 -> hasFocus(1) + 5 = 6
-    dwellTime - 217,                     // [23] PY(CW + 37) -> CW - 217
-    5, 4, 21, 3374, 6,
-    65540 + 65,                          // [29] nj(CU()) -> 65540 + 65 = 65605 (CU VM exact value)
-    innerW - 678,                        // [30] Viewport width
-    (seedTime + dwellTime) - 1753402118857, // [31] Dynamic epoch offset (server sync)
-    5, 2,
-    height - 143,                        // [34] Screen height
-    -9, 15, 42, 20,
+    useAuthentic ? pageElapsed : (pageElapsed - 217), // [23]
+    5, requestCount + 4, requestCount + 21, xg27, xg28,
+    65,                                  // [29] observed in six successful device requests
+    -267,                                // [30] Viewport width (innerW - 678)
+    (seedTime + pageElapsed) - 1753402118857, // [31] xE(seed time + page elapsed)
+    5, 19,                               // [33] observed device profile
+    749,                                 // [34] Screen height (height - 143)
+    xg35, 15, xg37, 22,
     20,                                  // [39] kd() -> deviceMemory(8) + 12 = 20
     9,                                   // [40] nl() -> 9 (WebKit/Chrome)
-    Math.round(dpr * 100) + 1,           // [41] Screen DPI scale factor
-    1, 36,
+    264,                                 // [41] Screen DPI scale factor
+    1, xg43,
     10,                                  // [44] xd() + 9 -> hasFocus(1) + 9 = 10
-    78, 11, 8, 6,
+    xg45, xg46, 8, xg48,
     12                                   // [49] nx() -> 12 + 0 = 12 (window environment)
   ];
 
-  const sessionId = profile.sessionId || wI_uuid();
+  // Helper to generate authentic 12-char hex client tracking UUIDs
+  function randomHex12() {
+    let s = "";
+    for (let i = 0; i < 12; i++) {
+      s += Math.floor(Math.random() * 16).toString(16);
+    }
+    return s;
+  }
 
   const CZ = {
     g2: "https:www.korail.com",
     oa4: "",
-    pcs: sessionId,
-    f3: (profile.vendor || "Google Inc.") + "|" + (profile.platform || "Linux armv8l"),
-    jh9: profile.webglRenderer || "ANGLE (ARM, Mali-G78 MP14, OpenGL ES 3.2)",
+    pcs: profile.pcs || "",
+    f3: (profile.vendor || "Google Inc.") + "|" + (profile.platform || (useAuthentic ? "Linux armv81" : "Linux armv8l")),
+    jh9: profile.webglRenderer || (useAuthentic ? "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.304)" : "ANGLE (ARM, Mali-G78 MP14, OpenGL ES 3.2)"),
     xu0: "0",
     cc: "",
-    f: [79, 37],
+    f: f_val,
     kl6: [73, 59, 48],
-    si: "",
-    xey: targetUrl,
-    u4p: "",
+    si: si_val,
+    xey: reqTarget,
+    u4p: isMultipart ? "" : reqBody,
     qq: "",
-    ui: "",
-    k8: "",
-    bg: "",
+    ui: profile.ui || randomHex12(),
+    k8: profile.k8 || randomHex12(),
+    bg: profile.bg || randomHex12(),
+    hl1: profile.audioHash ?? (useAuthentic ? "0x874a7f8a" : "0x8c60044f"),
+    u: profile.architecture ?? (useAuthentic ? "" : "arm"),
+    p0: profile.model ?? (useAuthentic ? "SM-S921N" : "SM-S928N"),
     abj: [],
-    hl1: "",
-    u: "",
-    p0: "",
     xf: "",
     xmy: xg,
-    r0h: "{}"
+    r0h: r0h_val
   };
+
+  if (!isMultipart && reqBody) {
+    CZ.k = reqBody;
+  }
 
   // Compute xf signature (in aLmK WAF, XHR uses DB=1 -> Bd)
   CZ.xf = Bd(CZ);
@@ -2615,6 +2668,8 @@ if (typeof process !== "undefined" && process.argv && require.main === module) {
   let seed = "";
   let url = "/classes/com.korail.mobile.certification.TicketReservation";
   let prefix = null;
+  let body = "";
+  let profile = {};
   let detectScript = null;
 
   for (let i = 0; i < args.length; i++) {
@@ -2626,6 +2681,12 @@ if (typeof process !== "undefined" && process.argv && require.main === module) {
       i++;
     } else if (args[i] === "--prefix" && args[i + 1]) {
       prefix = args[i + 1];
+      i++;
+    } else if (args[i] === "--body" && args[i + 1]) {
+      body = args[i + 1];
+      i++;
+    } else if (args[i] === "--profile" && args[i + 1]) {
+      profile = JSON.parse(args[i + 1]);
       i++;
     } else if (args[i] === "--detect-bundle" && args[i + 1]) {
       detectScript = args[i + 1];
@@ -2645,7 +2706,7 @@ if (typeof process !== "undefined" && process.argv && require.main === module) {
   }
 
   try {
-    const res = generateWebDynaPathToken({ seed: seed, url: url, prefix: prefix });
+    const res = generateWebDynaPathToken({ seed: seed, url: url, prefix: prefix, body: body, profile: profile });
     console.log(JSON.stringify(res));
   } catch (err) {
     console.error("DynaPath Error:", err.message);
