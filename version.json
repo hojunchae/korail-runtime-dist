@@ -1,13 +1,13 @@
 {
-  "bundle_name": "sha256-00d55e9816519684fb1f",
-  "bundle_sha256": "00d55e9816519684fb1f7b15b1b70ff55ca16402acac5cf81cff5b7b981a9e5f",
+  "bundle_name": "sha256-81464c9db99802c47769",
+  "bundle_sha256": "81464c9db99802c477695ee2298affbe1dfde5c5943412a3f8d7799c8a837229",
   "encoding": "Base13",
-  "manifest_sha256": "c55d2f80f0ad1e00d36f6298d79452b487a3dd0af7aa878037b09628d8dc2f46",
+  "manifest_sha256": "b180306bc69bcde5866e5f630afb6885f65cad509e36f38417e24357c87f1085",
   "runtime_api": 1,
   "schema_version": "4.0",
-  "sha256": "0163e5ddc8624d101ae59f7dd338864db83503d0024ec5be91148d9e6315ceb9",
-  "source_commit": "e116340e13473fb4d2ffbbf29c7b920f88bc7729",
+  "sha256": "11906bb4b129e5deacf2bd704138b1720fc19c122dd21e01660f0f92e09d0dc4",
+  "source_commit": "9f9e4d0d32cec3d6aef4376c57a75a4c8ad17172",
   "source_repo": "hojunchae/korail-pyto",
-  "token_param": "_ij",
-  "updated_at": "2026-11-03T05:24:01.038248+00:00"
+  "token_param": "me_",
+  "updated_at": "2026-11-03T20:57:42.114374+00:00"
 }
