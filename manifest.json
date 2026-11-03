@@ -1,0 +1,40 @@
+{
+  "analysis": {
+    "body_property": "y2",
+    "return_object_var": "CW",
+    "route_parts_var": "Ch",
+    "route_path_var": "Ce",
+    "router_function": "Ph",
+    "seed_var": "m2v3",
+    "session_hash_var": "nV",
+    "timer_outer_function": "nq",
+    "token_assignment_var": "Ci",
+    "token_param": "_ij",
+    "url_property": "izz"
+  },
+  "bundle": {
+    "deobfuscated_sha256": "d553068cb95a03cf6e115a628fe5926fd5f806eafaece28faa05cf485ecb92a5",
+    "deobfuscated_size": 217297,
+    "id": "sha256-00d55e9816519684fb1f",
+    "sha256": "00d55e9816519684fb1f7b15b1b70ff55ca16402acac5cf81cff5b7b981a9e5f",
+    "url": "https://cdn.korail.com/dyna/orrjqIr6WP43D16ht3TypO82eY9TCuLp.js"
+  },
+  "compiler": {
+    "analyzer": "structural-anchor-v1",
+    "name": "build_generator_auto.py"
+  },
+  "loader": {
+    "sha256": "ebb4958f20f11bb35a6c9880fd2c364867655889ef084306ffd28690005e2de3"
+  },
+  "output": {
+    "filename": "candidate-generate-token.js",
+    "sha256": "0163e5ddc8624d101ae59f7dd338864db83503d0024ec5be91148d9e6315ceb9",
+    "size": 294612
+  },
+  "patch_counts": {
+    "route_state_export": 1,
+    "router_export": 1,
+    "timer_bootstrap": 1
+  },
+  "schema_version": 1
+}
