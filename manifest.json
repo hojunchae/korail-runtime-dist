@@ -1,35 +1,35 @@
 {
   "analysis": {
-    "body_property": "c4",
-    "return_object_var": "Cx",
-    "route_parts_var": "Ce",
-    "route_path_var": "CV",
-    "router_function": "SI",
-    "seed_var": "afds8",
-    "session_hash_var": "SL",
-    "timer_outer_function": "L5",
-    "token_assignment_var": "CJ",
-    "token_param": "pt_",
-    "url_property": "n67"
+    "body_property": "o4",
+    "return_object_var": "Zy",
+    "route_parts_var": "Zb",
+    "route_path_var": "ZS",
+    "router_function": "ZI",
+    "seed_var": "qfu5",
+    "session_hash_var": "l6",
+    "timer_outer_function": "JT",
+    "token_assignment_var": "Zv",
+    "token_param": "_m7n",
+    "url_property": "v2"
   },
   "bundle": {
-    "deobfuscated_sha256": "a0e30d9326521b0745916f5e272c9c89f52ef7e34b92d37c573c4018047cc2cb",
-    "deobfuscated_size": 221985,
-    "id": "sha256-b1b2ea84699313435c1c",
-    "sha256": "b1b2ea84699313435c1c3734a88b76b6f10c72fb51383c4616b30df83cb16155",
-    "url": "https://cdn.korail.com/dyna/QTkbJ5OVK491Hpz1l12eXs3HEm1n5oSl.js"
+    "deobfuscated_sha256": "289edd776442a60576353b1cc076d3aa9b6de5b86951a50aaf04ee6b3e618603",
+    "deobfuscated_size": 222219,
+    "id": "sha256-fd80f364aebac94ce54f",
+    "sha256": "fd80f364aebac94ce54f1fa2f730dfff227015907a11a7183592c133fb885f0b",
+    "url": "https://cdn.korail.com/dyna/1zOjQa21j9lXOWnKUwiZ9OC1IooXCvCy.js"
   },
   "compiler": {
     "analyzer": "structural-anchor-v1",
     "name": "build_generator_auto.py"
   },
   "loader": {
-    "sha256": "3312b0c0c3e99dcffe454acb2d8f64c8eaea0392e959c98dd4c63109eafdc0b5"
+    "sha256": "fb4e3a7ee1f11130c6fad3633f680be5ffa654feba95d0528e91944fae2c9097"
   },
   "output": {
     "filename": "candidate-generate-token.js",
-    "sha256": "630daf8323663276dcb3f750f5d8a93ef95f351f49812cefd19c78964aed1678",
-    "size": 298925
+    "sha256": "90c35588b7c4514b65042cdb472958a66ca258bf82246f7996b57a4cb5ccc8b9",
+    "size": 299076
   },
   "patch_counts": {
     "route_state_export": 1,
